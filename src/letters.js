@@ -148,5 +148,15 @@ export const seedLetters = [
     "category": "Lettres",
     "tags": [],
     "is_favorite": false
+  },
+  {
+    "id": "lettre-16",
+    "title": "La renaissance",
+    "content": "Marie,\n\nJe ne t'écris pas pour remuer le passé, mais juste pour te partager un peu où j'en suis aujourd'hui. Ces derniers mois m'ont pas mal bousculé, mais au fond, ça m'a surtout forcé à me réveiller.\n\nJ'ai trouvé un vrai équilibre, un truc que je n'avais jamais ressenti avant. Je me suis mis à fond dans le sport, et plus particulièrement dans le trail. Le fait de partir sur les sentiers, d'encaisser le dénivelé et de commencer à dépasser la barre des 25 bornes... ça m'a forgé un tout autre mental. C'est bête, mais le fait de courir, de souffrir un peu et de repousser mes limites physiquement, ça m'a permis de me vider la tête et de me recentrer complètement. Aujourd'hui, je me sens bien, vraiment bien.\n\nJ'ai pris le temps de regarder ce qui n'allait pas chez moi et de travailler dessus. J'ai fini par comprendre qu'on ne peut pas s'investir correctement avec quelqu'un si on n'est pas déjà solide de son côté. Maintenant, je le suis. Je sais ce que j'ai à offrir et je sais à quel point je suis capable de m'impliquer à fond, sainement, dans ce qui compte vraiment.\n\nJe suis fier de l'homme que je suis en train de devenir.\n\nPrends soin de toi.",
+    "written_at": null,
+    "recipient": "Marie",
+    "category": "Lettres",
+    "tags": [],
+    "is_favorite": false
   }
 ];
